@@ -1,2 +1,2 @@
 this is my first feature file presetn in git
-hub repo
+hub main
